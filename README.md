@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-the-Scot
 - 👀 I’m interested in systems security, systems development
-- 🌱 I’m currently learning Python, Docker and other 'new' stuff.......Been programming since 1973.
+- 🌱 I’m currently learning Python, Docker and other 'new' stuff.......Been programming since last century.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me  - email ctunnah@aol.com
 
